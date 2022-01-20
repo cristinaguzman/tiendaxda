@@ -1,0 +1,22 @@
+.logo {
+  width:100px;
+  height:100px;
+  position:relative;
+  background:$somkyblack;
+  font-family:$oldstandard;
+  font-weight:$oldstandard-bold;
+  font-size:$font-size-xxx-large;
+  text-align: center;
+}
+
+.caja {
+  background-color:$somkyblack;
+  height: 150px;
+  padding-top: 50px;
+  padding-left: 50px;
+  color:$white;
+  width: 100%;
+  font-style: $oldstandard;
+  font-size: $font-size-x-large;
+  font-weight:$oldstandard-bold;
+}
